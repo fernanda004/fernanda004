@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Fernanda.</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -22,7 +22,6 @@
 </div>
 
 ###
-
 <!--
 **fernanda004/fernanda004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
